@@ -1,3 +1,1 @@
-👋 Hi, I’m @Barnemax
-
-I'm doing stuff with WordPress and this is my playground
+👋 Hi, I’m @Barnemax - this is my playground
